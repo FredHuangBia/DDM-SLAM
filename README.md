@@ -14,3 +14,6 @@ TUM Dataset: https://vision.in.tum.de/data/datasets/rgbd-dataset/download#freibu
 
 # LSD-SLAM base code
 Please use https://github.com/dknyxh/lsd_slam/ for base code on Ubuntu 16.04
+
+# Slide
+https://docs.google.com/presentation/d/1bbOtJrSiUXPgQQNIuZaPbQbvw0hJNiky1KSANuHMgY4/edit?ts=5cc5f536#slide=id.g56d61c4148_0_37
